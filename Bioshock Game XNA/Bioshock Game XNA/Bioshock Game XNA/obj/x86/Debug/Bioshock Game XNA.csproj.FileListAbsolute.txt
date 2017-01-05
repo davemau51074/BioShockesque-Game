@@ -1,0 +1,91 @@
+C:\Users\davy\Documents\Visual Studio 2013\Projects\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\BigDaddy-1.xnb
+C:\Users\davy\Documents\Visual Studio 2013\Projects\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Bioshock Game XNA.exe
+C:\Users\davy\Documents\Visual Studio 2013\Projects\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Bioshock Game XNA.pdb
+C:\Users\davy\Documents\Visual Studio 2013\Projects\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\obj\x86\Debug\Bioshock Game XNA.csprojResolveAssemblyReference.cache
+C:\Users\davy\Documents\Visual Studio 2013\Projects\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\davy\Documents\Visual Studio 2013\Projects\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\obj\x86\Debug\Bioshock Game XNA.exe
+C:\Users\davy\Documents\Visual Studio 2013\Projects\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\obj\x86\Debug\Bioshock Game XNA.pdb
+C:\Users\davy\Documents\Visual Studio 2013\Projects\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\BackGround.xnb
+C:\Users\davy\Documents\Visual Studio 2013\Projects\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\BigDaddyRight.xnb
+C:\Users\davy\Documents\Visual Studio 2013\Projects\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\LittleSisterStanding.xnb
+C:\Users\davy\Documents\Visual Studio 2013\Projects\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\davy\Documents\Visual Studio 2013\Projects\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\Floor1.xnb
+C:\Users\davy\Documents\Visual Studio 2013\Projects\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\LeftBullet.xnb
+C:\Users\davy\Documents\Visual Studio 2013\Projects\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\meelesplicer.xnb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\BigDaddy-1.xnb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\BackGround.xnb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\BigDaddyRight.xnb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\LittleSisterStanding.xnb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\Floor1.xnb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\LeftBullet.xnb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\meelesplicer.xnb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Bioshock Game XNA.exe
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Bioshock Game XNA.pdb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\obj\x86\Debug\Bioshock Game XNA.csprojResolveAssemblyReference.cache
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\obj\x86\Debug\Bioshock Game XNA.exe
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\obj\x86\Debug\Bioshock Game XNA.pdb
+D:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\BigDaddy-1.xnb
+D:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\BackGround.xnb
+D:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\BigDaddyRight.xnb
+D:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\LittleSisterStanding.xnb
+D:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\Floor1.xnb
+D:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\LeftBullet.xnb
+D:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\meelesplicer.xnb
+D:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Bioshock Game XNA.exe
+D:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Bioshock Game XNA.pdb
+D:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\obj\x86\Debug\Bioshock Game XNA.csprojResolveAssemblyReference.cache
+D:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\obj\x86\Debug\Bioshock Game XNA.exe
+D:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\obj\x86\Debug\Bioshock Game XNA.pdb
+D:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\meleeplicerAttacking.xnb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\meleeplicerAttacking.xnb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\BigDaddy-1 - Copy.xnb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\BigDaddy-1.xnb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\BackGround.xnb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\BigDaddyRight.xnb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\LittleSisterStanding.xnb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\Floor1.xnb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\LeftBullet.xnb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\meelesplicer.xnb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\meleeplicerAttacking.xnb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\BigDaddy-1 - Copy.xnb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Bioshock Game XNA.exe
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Bioshock Game XNA.pdb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\obj\x86\Debug\Bioshock Game XNA.csprojResolveAssemblyReference.cache
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\obj\x86\Debug\Bioshock Game XNA.exe
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\obj\x86\Debug\Bioshock Game XNA.pdb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\BigDaddyForward.xnb
+D:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\BigDaddy-1 - Copy.xnb
+D:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\BigDaddyForward.xnb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\bigDaddyUp1.xnb
+D:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\bigDaddyUp1.xnb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\BigDaddyForward.xnb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\bigDaddyUp1.xnb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\deadBody.xnb
+D:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\deadBody.xnb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\PianoBackGround.xnb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\deadBody.xnb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\PianoBackGround.xnb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\First_Aid_Kit.xnb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\First_Aid_Kit.xnb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\Adam.xnb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\Adam.xnb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\Fireball.xnb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\Fireball.xnb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\menuScreen.xnb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\menuScreen.xnb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\eve.xnb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\winterShock.xnb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\electroShock.xnb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\electricBolt.xnb
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\frostBullet.xnb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\eve.xnb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\winterShock.xnb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\electroShock.xnb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\electricBolt.xnb
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\frostBullet.xnb

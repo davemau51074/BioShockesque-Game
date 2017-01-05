@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bioshock Game XNA", "Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA.csproj", "{53D4717D-7548-47D8-A56B-7C37D2016B2A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Bioshock Game XNAContent", "Bioshock Game XNA\Bioshock Game XNAContent\Bioshock Game XNAContent.contentproj", "{09F252EF-5E37-4145-9030-7F41244E58BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53D4717D-7548-47D8-A56B-7C37D2016B2A}.Debug|x86.ActiveCfg = Debug|x86
+		{53D4717D-7548-47D8-A56B-7C37D2016B2A}.Debug|x86.Build.0 = Debug|x86
+		{53D4717D-7548-47D8-A56B-7C37D2016B2A}.Release|x86.ActiveCfg = Release|x86
+		{53D4717D-7548-47D8-A56B-7C37D2016B2A}.Release|x86.Build.0 = Release|x86
+		{09F252EF-5E37-4145-9030-7F41244E58BE}.Debug|x86.ActiveCfg = Debug|x86
+		{09F252EF-5E37-4145-9030-7F41244E58BE}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

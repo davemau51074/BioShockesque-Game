@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>BigDaddy-1.png</Source>
+      <Name>BigDaddy-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\BigDaddy-1.xnb</Output>
+      <Time>2016-01-25T09:55:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BackGround.jpg</Source>
+      <Name>BackGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\BackGround.xnb</Output>
+      <Time>2016-01-09T14:46:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BigDaddyRight.png</Source>
+      <Name>BigDaddyRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\BigDaddyRight.xnb</Output>
+      <Time>2016-01-09T14:54:34+00:00</Time>
+    </Item>
+    <Item>
+      <Source>LittleSisterStanding.png</Source>
+      <Name>LittleSisterStanding</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\LittleSisterStanding.xnb</Output>
+      <Time>2016-01-09T23:49:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Floor1.jpg</Source>
+      <Name>Floor1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\Floor1.xnb</Output>
+      <Time>2016-01-10T13:13:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>LeftBullet.png</Source>
+      <Name>LeftBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\LeftBullet.xnb</Output>
+      <Time>2016-01-10T20:16:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>meelesplicer.png</Source>
+      <Name>meelesplicer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\meelesplicer.xnb</Output>
+      <Time>2016-01-12T13:21:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>meleeplicerAttacking.png</Source>
+      <Name>meleeplicerAttacking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\meleeplicerAttacking.xnb</Output>
+      <Time>2016-01-22T09:04:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BigDaddy-1 - Copy.png</Source>
+      <Name>BigDaddy-1 - Copy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\BigDaddy-1 - Copy.xnb</Output>
+      <Time>2016-01-25T09:23:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BigDaddyForward.png</Source>
+      <Name>BigDaddyForward</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\BigDaddyForward.xnb</Output>
+      <Time>2016-02-10T09:07:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bigDaddyUp1.png</Source>
+      <Name>bigDaddyUp1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\bigDaddyUp1.xnb</Output>
+      <Time>2016-01-26T12:34:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>deadBody.png</Source>
+      <Name>deadBody</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\deadBody.xnb</Output>
+      <Time>2016-01-27T16:55:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>First_Aid_Kit.png</Source>
+      <Name>First_Aid_Kit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\First_Aid_Kit.xnb</Output>
+      <Time>2016-02-10T08:34:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Adam.png</Source>
+      <Name>Adam</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\Adam.xnb</Output>
+      <Time>2016-02-16T08:31:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fireball.png</Source>
+      <Name>Fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\Fireball.xnb</Output>
+      <Time>2016-02-16T08:20:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>menuScreen.jpg</Source>
+      <Name>menuScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\menuScreen.xnb</Output>
+      <Time>2016-02-19T07:35:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>eve.png</Source>
+      <Name>eve</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\eve.xnb</Output>
+      <Time>2016-02-19T12:03:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>winterShock.png</Source>
+      <Name>winterShock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\winterShock.xnb</Output>
+      <Time>2016-02-20T16:32:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>electroShock.png</Source>
+      <Name>electroShock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\electroShock.xnb</Output>
+      <Time>2016-02-20T16:32:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>electricBolt.png</Source>
+      <Name>electricBolt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\electricBolt.xnb</Output>
+      <Time>2016-02-21T14:59:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>frostBullet.png</Source>
+      <Name>frostBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\frostBullet.xnb</Output>
+      <Time>2016-02-21T15:15:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2016-01-10T00:14:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>PianoBackGround.wav</Source>
+      <Name>PianoBackGround</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\PianoBackGround.xnb</Output>
+      <Time>2016-01-31T19:06:58+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{09F252EF-5E37-4145-9030-7F41244E58BE}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNAContent\</RootDirectory>
+      <LoggerRootDirectory>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-04-24T16:52:14.0057858+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

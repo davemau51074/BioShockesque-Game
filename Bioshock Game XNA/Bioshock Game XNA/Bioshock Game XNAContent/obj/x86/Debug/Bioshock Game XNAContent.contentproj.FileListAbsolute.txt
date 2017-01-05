@@ -1,0 +1,4 @@
+C:\Users\davy\Documents\Visual Studio 2013\Projects\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNAContent\obj\x86\Debug\Bioshock Game XNAContent.contentprojResolveAssemblyReference.cache
+E:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNAContent\obj\x86\Debug\Bioshock Game XNAContent.contentprojResolveAssemblyReference.cache
+D:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNAContent\obj\x86\Debug\Bioshock Game XNAContent.contentprojResolveAssemblyReference.cache
+F:\Bioshock Game XNA\Bioshock Game XNA\Bioshock Game XNAContent\obj\x86\Debug\Bioshock Game XNAContent.contentprojResolveAssemblyReference.cache
